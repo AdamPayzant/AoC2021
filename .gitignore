@@ -1,0 +1,6 @@
+# Annoying workaround for binaries
+*
+!*.*
+
+*.hi
+*.o
